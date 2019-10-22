@@ -1,6 +1,6 @@
 # Sample Story
 
-## Obuoliu sultys
+## As daugiau nedarysiu atsiskaitymo uzduociu iki kol destitojas man nepasakys kokia mano atsiskaitymo uzduotis
 
 This is an sample md (.md) file written in markdown language for easy documentation of github code repos and story telling.
 

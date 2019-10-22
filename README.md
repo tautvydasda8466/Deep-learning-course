@@ -1,6 +1,6 @@
 # Sample Story
 
-## Overview
+## Obuoliu sultys
 
 This is an sample md (.md) file written in markdown language for easy documentation of github code repos and story telling.
 
